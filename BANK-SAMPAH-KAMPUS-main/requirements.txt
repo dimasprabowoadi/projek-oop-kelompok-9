@@ -1,8 +1,7 @@
 # Proyek ini hanya memakai pustaka standar Python (abc, dataclasses, unittest).
 # Tidak ada paket pihak ketiga yang perlu dipasang.
 # Versi Python yang disarankan: 3.8 atau lebih baru.
-<<<<<<< HEAD
+
 streamlit
 pandas
-=======
->>>>>>> 1a55c2bc8fab41e948b3e9581fd7fc40f6bbbf9b
+
